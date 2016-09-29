@@ -1,0 +1,100 @@
+
+Creating threads ...
+Threads created...
+
+thread 1 starting
+thread 2 starting
+thread 3 starting
+thread 3 iteration 0
+thread 1 iteration 0
+thread 2 iteration 0
+thread 3 iteration 1
+thread 1 iteration 1
+thread 2 iteration 1
+thread 3 iteration 2
+thread 1 iteration 2
+thread 2 iteration 2
+thread 3 iteration 3
+thread 1 iteration 3
+thread 2 iteration 3
+thread 3 iteration 4
+thread 2 iteration 4
+thread 1 iteration 4
+thread 3 iteration 5
+thread 2 iteration 5
+thread 1 iteration 5
+thread 3 iteration 6
+thread 2 iteration 6
+thread 1 iteration 6
+thread 3 iteration 7
+thread 1 iteration 7
+thread 2 iteration 7
+thread 3 iteration 8
+thread 2 iteration 8
+thread 1 iteration 8
+thread 3 iteration 9
+thread 2 iteration 9
+thread 1 iteration 9
+thread 3 iteration 10
+thread 1 iteration 10
+thread 2 iteration 10
+thread 3 iteration 11
+thread 1 iteration 11
+thread 2 iteration 11
+thread 3 iteration 12
+thread 1 iteration 12
+thread 2 iteration 12
+thread 3 iteration 13
+thread 1 iteration 13
+thread 2 iteration 13
+thread 3 iteration 14
+thread 1 iteration 14
+thread 2 iteration 14
+thread 3 iteration 15
+thread 1 iteration 15
+thread 2 iteration 15
+thread 3 iteration 16
+thread 1 iteration 16
+thread 2 iteration 16
+thread 3 iteration 17
+thread 1 iteration 17
+thread 2 iteration 17
+thread 3 iteration 18
+thread 1 iteration 18
+thread 2 iteration 18
+thread 3 iteration 19
+thread 1 iteration 19
+thread 2 iteration 19
+thread 3 iteration 20
+thread 1 iteration 20
+thread 2 iteration 20
+thread 1 iteration 21
+thread 3 iteration 21
+thread 2 iteration 21
+thread 3 iteration 22
+thread 1 iteration 22
+thread 2 iteration 22
+thread 1 iteration 23
+thread 3 iteration 23
+thread 2 iteration 23
+thread 1 iteration 24
+Thread 1 exiting
+thread 3 iteration 24
+Thread 3 exiting
+thread 0: exited return code 1
+thread 2 iteration 24
+Thread 2 exiting
+
+*****************************************THREADS SUMMARY***************************************
++-----------+-------------+---------+-------+---------+-------------+---------------+-------------------+
+| Thread ID |   State     | Blocked | Ready | Running | Waiting(ms) | Execution(ms) | Enqued/Dispatched |
++-----------+-------------+---------+-------+---------+-------------+---------------+-------------------+
+|    1      | COMPLETED   |    0    |   67  |   67    |  660        |      330      |   2.44            |
++-----------+-------------+---------+-------+---------+-------------+---------------+-------------------+
+|    3      | COMPLETED   |    0    |   67  |   67    |  680        |      335      |   2.46            |
++-----------+-------------+---------+-------+---------+-------------+---------------+-------------------+
+|    2      | COMPLETED   |    0    |   68  |   68    |  675        |      335      |   2.48            |
++-----------+-------------+---------+-------+---------+-------------+---------------+-------------------+
+|    -999   | RUNNING     |    2    |   0   |   3     |  1010       |       --      |    --------       |
++-----------+-------------+---------+-------+---------+-------------+---------------+-------------------+
+**************************************** Thread Summary End ****************************************

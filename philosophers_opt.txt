@@ -1,0 +1,1235 @@
+
+Creating threads for philosophers...
+Succesfully created philosopher threads...
+
+Philosopher 0 starting
+Philosopher 1 starting
+Philosopher 2 starting
+Philosopher 3 starting
+Philosopher 4 starting
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   1	     |  0     |  0     |
+| Philisopher  1  |   1	     |  0     |  0     |
+| Philisopher  2  |   1	     |  0     |  0     |
+| Philisopher  3  |   1	     |  0     |  0     |
+| Philisopher  4  |   1	     |  0     |  0     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   1	     |  1     |  1     |
+| Philisopher  1  |   1	     |  0     |  0     |
+| Philisopher  2  |   1	     |  0     |  0     |
+| Philisopher  3  |   1	     |  0     |  0     |
+| Philisopher  4  |   1	     |  0     |  0     |
++-----------------+----------+--------+--------+
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   1	     |  1     |  1     |
+| Philisopher  1  |   1	     |  1     |  1     |
+| Philisopher  2  |   1	     |  0     |  0     |
+| Philisopher  3  |   1	     |  0     |  0     |
+| Philisopher  4  |   1	     |  0     |  0     |
++-----------------+----------+--------+--------+
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+Philosopher 0 is thinking...
+Philosopher 1 is thinking...
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   2	     |  1     |  1     |
+| Philisopher  1  |   2	     |  1     |  1     |
+| Philisopher  2  |   1	     |  1     |  1     |
+| Philisopher  3  |   1	     |  1     |  1     |
+| Philisopher  4  |   1	     |  1     |  1     |
++-----------------+----------+--------+--------+
+Philosopher 4 is thinking...
+Philosopher 3 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   2	     |  1     |  1     |
+| Philisopher  1  |   2	     |  1     |  1     |
+| Philisopher  2  |   1	     |  1     |  1     |
+| Philisopher  3  |   2	     |  1     |  1     |
+| Philisopher  4  |   2	     |  1     |  1     |
++-----------------+----------+--------+--------+
+Philosopher 1 is hungry...
+Philosopher 2 is thinking...
+Philosopher 1 is eating...
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   2	     |  2     |  2     |
+| Philisopher  1  |   2	     |  2     |  2     |
+| Philisopher  2  |   2	     |  1     |  1     |
+| Philisopher  3  |   2	     |  1     |  1     |
+| Philisopher  4  |   2	     |  1     |  1     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   3	     |  2     |  2     |
+| Philisopher  1  |   2	     |  2     |  2     |
+| Philisopher  2  |   2	     |  1     |  1     |
+| Philisopher  3  |   2	     |  1     |  1     |
+| Philisopher  4  |   2	     |  2     |  2     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   3	     |  2     |  2     |
+| Philisopher  1  |   3	     |  2     |  2     |
+| Philisopher  2  |   2	     |  2     |  2     |
+| Philisopher  3  |   2	     |  1     |  1     |
+| Philisopher  4  |   2	     |  2     |  2     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 4 is thinking...
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   3	     |  3     |  3     |
+| Philisopher  1  |   3	     |  2     |  2     |
+| Philisopher  2  |   3	     |  2     |  2     |
+| Philisopher  3  |   2	     |  2     |  2     |
+| Philisopher  4  |   3	     |  2     |  2     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   3	     |  3     |  3     |
+| Philisopher  1  |   3	     |  2     |  2     |
+| Philisopher  2  |   3	     |  2     |  2     |
+| Philisopher  3  |   3	     |  2     |  2     |
+| Philisopher  4  |   3	     |  2     |  2     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+Philosopher 2 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   4	     |  3     |  3     |
+| Philisopher  1  |   3	     |  3     |  3     |
+| Philisopher  2  |   3	     |  2     |  3     |
+| Philisopher  3  |   3	     |  2     |  2     |
+| Philisopher  4  |   3	     |  3     |  3     |
++-----------------+----------+--------+--------+
+Philosopher 4 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   4	     |  3     |  3     |
+| Philisopher  1  |   3	     |  3     |  3     |
+| Philisopher  2  |   3	     |  2     |  3     |
+| Philisopher  3  |   3	     |  2     |  2     |
+| Philisopher  4  |   4	     |  3     |  3     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+Philosopher 1 is thinking...
+Philosopher 0 is eating...
+Philosopher 2 is eating...
+Philosopher 3 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   4	     |  4     |  4     |
+| Philisopher  1  |   4	     |  3     |  3     |
+| Philisopher  2  |   3	     |  3     |  3     |
+| Philisopher  3  |   3	     |  2     |  3     |
+| Philisopher  4  |   4	     |  3     |  3     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 2 is thinking...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   5	     |  4     |  4     |
+| Philisopher  1  |   4	     |  3     |  3     |
+| Philisopher  2  |   4	     |  3     |  3     |
+| Philisopher  3  |   3	     |  3     |  3     |
+| Philisopher  4  |   4	     |  3     |  3     |
++-----------------+----------+--------+--------+
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   5	     |  4     |  4     |
+| Philisopher  1  |   4	     |  4     |  4     |
+| Philisopher  2  |   4	     |  3     |  3     |
+| Philisopher  3  |   3	     |  3     |  3     |
+| Philisopher  4  |   4	     |  3     |  3     |
++-----------------+----------+--------+--------+
+Philosopher 4 is hungry...
+Philosopher 3 is thinking...
+Philosopher 4 is eating...
+Philosopher 2 is hungry...
+Philosopher 1 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   5	     |  4     |  4     |
+| Philisopher  1  |   5	     |  4     |  4     |
+| Philisopher  2  |   4	     |  3     |  4     |
+| Philisopher  3  |   4	     |  3     |  3     |
+| Philisopher  4  |   4	     |  4     |  4     |
++-----------------+----------+--------+--------+
+Philosopher 2 is eating...
+Philosopher 4 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   5	     |  4     |  4     |
+| Philisopher  1  |   5	     |  4     |  4     |
+| Philisopher  2  |   4	     |  4     |  4     |
+| Philisopher  3  |   4	     |  3     |  3     |
+| Philisopher  4  |   5	     |  4     |  4     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+Philosopher 1 is hungry...
+Philosopher 2 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   5	     |  5     |  5     |
+| Philisopher  1  |   5	     |  4     |  5     |
+| Philisopher  2  |   5	     |  4     |  4     |
+| Philisopher  3  |   4	     |  3     |  3     |
+| Philisopher  4  |   5	     |  4     |  4     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   6	     |  5     |  5     |
+| Philisopher  1  |   5	     |  5     |  5     |
+| Philisopher  2  |   5	     |  4     |  4     |
+| Philisopher  3  |   4	     |  3     |  3     |
+| Philisopher  4  |   5	     |  4     |  4     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+Philosopher 4 is hungry...
+Philosopher 1 is thinking...
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   6	     |  6     |  6     |
+| Philisopher  1  |   6	     |  5     |  5     |
+| Philisopher  2  |   5	     |  4     |  4     |
+| Philisopher  3  |   4	     |  4     |  4     |
+| Philisopher  4  |   5	     |  4     |  5     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   6	     |  6     |  6     |
+| Philisopher  1  |   6	     |  5     |  5     |
+| Philisopher  2  |   5	     |  4     |  4     |
+| Philisopher  3  |   4	     |  4     |  4     |
+| Philisopher  4  |   5	     |  4     |  5     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+Philosopher 0 is thinking...
+Philosopher 4 is eating...
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   7	     |  6     |  6     |
+| Philisopher  1  |   6	     |  6     |  6     |
+| Philisopher  2  |   5	     |  4     |  4     |
+| Philisopher  3  |   5	     |  4     |  4     |
+| Philisopher  4  |   5	     |  5     |  5     |
++-----------------+----------+--------+--------+
+Philosopher 2 is hungry...
+Philosopher 1 is thinking...
+Philosopher 2 is eating...
+Philosopher 4 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   7	     |  6     |  6     |
+| Philisopher  1  |   7	     |  6     |  6     |
+| Philisopher  2  |   5	     |  5     |  5     |
+| Philisopher  3  |   5	     |  4     |  4     |
+| Philisopher  4  |   6	     |  5     |  5     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   7	     |  6     |  6     |
+| Philisopher  1  |   7	     |  6     |  6     |
+| Philisopher  2  |   5	     |  5     |  5     |
+| Philisopher  3  |   5	     |  4     |  4     |
+| Philisopher  4  |   6	     |  5     |  5     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 1 is hungry...
+Philosopher 2 is thinking...
+Philosopher 1 is eating...
+Philosopher 3 is eating...
+Philosopher 0 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   7	     |  6     |  7     |
+| Philisopher  1  |   7	     |  7     |  7     |
+| Philisopher  2  |   6	     |  5     |  5     |
+| Philisopher  3  |   5	     |  5     |  5     |
+| Philisopher  4  |   6	     |  5     |  5     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   7	     |  7     |  7     |
+| Philisopher  1  |   8	     |  7     |  7     |
+| Philisopher  2  |   6	     |  5     |  5     |
+| Philisopher  3  |   5	     |  5     |  5     |
+| Philisopher  4  |   6	     |  5     |  5     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+Philosopher 4 is hungry...
+Philosopher 0 is thinking...
+Philosopher 4 is eating...
+Philosopher 1 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   8	     |  7     |  7     |
+| Philisopher  1  |   8	     |  7     |  8     |
+| Philisopher  2  |   6	     |  6     |  6     |
+| Philisopher  3  |   6	     |  5     |  5     |
+| Philisopher  4  |   6	     |  6     |  6     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   8	     |  7     |  7     |
+| Philisopher  1  |   8	     |  8     |  8     |
+| Philisopher  2  |   7	     |  6     |  6     |
+| Philisopher  3  |   6	     |  5     |  5     |
+| Philisopher  4  |   6	     |  6     |  6     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 4 is thinking...
+Philosopher 3 is eating...
+Philosopher 1 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   8	     |  7     |  7     |
+| Philisopher  1  |   9	     |  8     |  8     |
+| Philisopher  2  |   7	     |  6     |  6     |
+| Philisopher  3  |   6	     |  6     |  6     |
+| Philisopher  4  |   7	     |  6     |  6     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+Philosopher 3 is thinking...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   8	     |  8     |  8     |
+| Philisopher  1  |   9	     |  8     |  8     |
+| Philisopher  2  |   7	     |  7     |  7     |
+| Philisopher  3  |   7	     |  6     |  6     |
+| Philisopher  4  |   7	     |  6     |  6     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 2 is thinking...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   9	     |  8     |  8     |
+| Philisopher  1  |   9	     |  8     |  8     |
+| Philisopher  2  |   8	     |  7     |  7     |
+| Philisopher  3  |   7	     |  6     |  6     |
+| Philisopher  4  |   7	     |  7     |  7     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   9	     |  8     |  8     |
+| Philisopher  1  |   9	     |  8     |  8     |
+| Philisopher  2  |   8	     |  7     |  7     |
+| Philisopher  3  |   7	     |  6     |  6     |
+| Philisopher  4  |   7	     |  7     |  7     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+Philosopher 4 is thinking...
+Philosopher 0 is eating...
+Philosopher 1 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |   9	     |  9     |  9     |
+| Philisopher  1  |   9	     |  8     |  9     |
+| Philisopher  2  |   8	     |  7     |  7     |
+| Philisopher  3  |   7	     |  6     |  6     |
+| Philisopher  4  |   8	     |  7     |  7     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+Philosopher 0 is thinking...
+Philosopher 1 is eating...
+Philosopher 2 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  10	     |  9     |  9     |
+| Philisopher  1  |   9	     |  9     |  9     |
+| Philisopher  2  |   8	     |  7     |  8     |
+| Philisopher  3  |   7	     |  7     |  7     |
+| Philisopher  4  |   8	     |  7     |  7     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  10	     |  9     |  9     |
+| Philisopher  1  |   9	     |  9     |  9     |
+| Philisopher  2  |   8	     |  7     |  8     |
+| Philisopher  3  |   8	     |  7     |  7     |
+| Philisopher  4  |   8	     |  7     |  7     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  10	     |  9     |  9     |
+| Philisopher  1  |  10	     |  9     |  9     |
+| Philisopher  2  |   8	     |  8     |  8     |
+| Philisopher  3  |   8	     |  7     |  7     |
+| Philisopher  4  |   8	     |  7     |  7     |
++-----------------+----------+--------+--------+
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+Philosopher 3 is hungry...
+Philosopher 0 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  10	     |  9     | 10     |
+| Philisopher  1  |  10	     |  9     |  9     |
+| Philisopher  2  |   8	     |  8     |  8     |
+| Philisopher  3  |   8	     |  7     |  8     |
+| Philisopher  4  |   8	     |  8     |  8     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 4 is thinking...
+Philosopher 3 is eating...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  10	     | 10     | 10     |
+| Philisopher  1  |  10	     |  9     |  9     |
+| Philisopher  2  |   9	     |  8     |  8     |
+| Philisopher  3  |   8	     |  8     |  8     |
+| Philisopher  4  |   9	     |  8     |  8     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  10	     | 10     | 10     |
+| Philisopher  1  |  10	     |  9     |  9     |
+| Philisopher  2  |   9	     |  8     |  8     |
+| Philisopher  3  |   9	     |  8     |  8     |
+| Philisopher  4  |   9	     |  8     |  8     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+Philosopher 2 is hungry...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+Philosopher 1 is thinking...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  11	     | 10     | 10     |
+| Philisopher  1  |  11	     | 10     | 10     |
+| Philisopher  2  |   9	     |  9     |  9     |
+| Philisopher  3  |   9	     |  8     |  8     |
+| Philisopher  4  |   9	     |  9     |  9     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  11	     | 10     | 10     |
+| Philisopher  1  |  11	     | 10     | 10     |
+| Philisopher  2  |   9	     |  9     |  9     |
+| Philisopher  3  |   9	     |  8     |  8     |
+| Philisopher  4  |   9	     |  9     |  9     |
++-----------------+----------+--------+--------+
+Philosopher 4 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  11	     | 10     | 10     |
+| Philisopher  1  |  11	     | 10     | 10     |
+| Philisopher  2  |   9	     |  9     |  9     |
+| Philisopher  3  |   9	     |  8     |  8     |
+| Philisopher  4  |  10	     |  9     |  9     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+Philosopher 1 is hungry...
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  11	     | 11     | 11     |
+| Philisopher  1  |  11	     | 10     | 11     |
+| Philisopher  2  |  10	     |  9     |  9     |
+| Philisopher  3  |   9	     |  9     |  9     |
+| Philisopher  4  |  10	     |  9     |  9     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  12	     | 11     | 11     |
+| Philisopher  1  |  11	     | 11     | 11     |
+| Philisopher  2  |  10	     |  9     |  9     |
+| Philisopher  3  |   9	     |  9     |  9     |
+| Philisopher  4  |  10	     |  9     |  9     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+Philosopher 2 is hungry...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  12	     | 11     | 11     |
+| Philisopher  1  |  11	     | 11     | 11     |
+| Philisopher  2  |  10	     |  9     | 10     |
+| Philisopher  3  |  10	     |  9     |  9     |
+| Philisopher  4  |  10	     | 10     | 10     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 2 is eating...
+Philosopher 4 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  12	     | 11     | 11     |
+| Philisopher  1  |  12	     | 11     | 11     |
+| Philisopher  2  |  10	     | 10     | 10     |
+| Philisopher  3  |  10	     |  9     |  9     |
+| Philisopher  4  |  11	     | 10     | 10     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  12	     | 11     | 11     |
+| Philisopher  1  |  12	     | 11     | 11     |
+| Philisopher  2  |  10	     | 10     | 10     |
+| Philisopher  3  |  10	     |  9     |  9     |
+| Philisopher  4  |  11	     | 10     | 10     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 2 is thinking...
+Philosopher 3 is eating...
+Philosopher 4 is hungry...
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  12	     | 12     | 12     |
+| Philisopher  1  |  12	     | 11     | 11     |
+| Philisopher  2  |  11	     | 10     | 10     |
+| Philisopher  3  |  10	     | 10     | 10     |
+| Philisopher  4  |  11	     | 10     | 11     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  12	     | 12     | 12     |
+| Philisopher  1  |  12	     | 11     | 11     |
+| Philisopher  2  |  11	     | 10     | 10     |
+| Philisopher  3  |  11	     | 10     | 10     |
+| Philisopher  4  |  11	     | 10     | 11     |
++-----------------+----------+--------+--------+
+Philosopher 1 is hungry...
+Philosopher 0 is thinking...
+Philosopher 4 is eating...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  13	     | 12     | 12     |
+| Philisopher  1  |  12	     | 12     | 12     |
+| Philisopher  2  |  11	     | 10     | 10     |
+| Philisopher  3  |  11	     | 10     | 10     |
+| Philisopher  4  |  11	     | 11     | 11     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  13	     | 12     | 12     |
+| Philisopher  1  |  13	     | 12     | 12     |
+| Philisopher  2  |  11	     | 10     | 10     |
+| Philisopher  3  |  11	     | 10     | 10     |
+| Philisopher  4  |  11	     | 11     | 11     |
++-----------------+----------+--------+--------+
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+Philosopher 4 is thinking...
+Philosopher 3 is hungry...
+Philosopher 1 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  13	     | 12     | 12     |
+| Philisopher  1  |  13	     | 12     | 13     |
+| Philisopher  2  |  11	     | 11     | 11     |
+| Philisopher  3  |  11	     | 10     | 11     |
+| Philisopher  4  |  12	     | 11     | 11     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+Philosopher 1 is eating...
+Philosopher 3 is eating...
+Philosopher 0 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  13	     | 12     | 13     |
+| Philisopher  1  |  13	     | 13     | 13     |
+| Philisopher  2  |  12	     | 11     | 11     |
+| Philisopher  3  |  11	     | 11     | 11     |
+| Philisopher  4  |  12	     | 12     | 12     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  13	     | 12     | 13     |
+| Philisopher  1  |  13	     | 13     | 13     |
+| Philisopher  2  |  12	     | 11     | 11     |
+| Philisopher  3  |  11	     | 11     | 11     |
+| Philisopher  4  |  12	     | 12     | 12     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 3 is thinking...
+Philosopher 4 is thinking...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  13	     | 13     | 13     |
+| Philisopher  1  |  14	     | 13     | 13     |
+| Philisopher  2  |  12	     | 12     | 12     |
+| Philisopher  3  |  12	     | 11     | 11     |
+| Philisopher  4  |  13	     | 12     | 12     |
++-----------------+----------+--------+--------+
+Philosopher 1 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  13	     | 13     | 13     |
+| Philisopher  1  |  14	     | 13     | 14     |
+| Philisopher  2  |  12	     | 12     | 12     |
+| Philisopher  3  |  12	     | 11     | 11     |
+| Philisopher  4  |  13	     | 12     | 12     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 0 is thinking...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  14	     | 13     | 13     |
+| Philisopher  1  |  14	     | 14     | 14     |
+| Philisopher  2  |  13	     | 12     | 12     |
+| Philisopher  3  |  12	     | 11     | 11     |
+| Philisopher  4  |  13	     | 12     | 12     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+Philosopher 4 is hungry...
+Philosopher 1 is thinking...
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  14	     | 14     | 14     |
+| Philisopher  1  |  15	     | 14     | 14     |
+| Philisopher  2  |  13	     | 12     | 12     |
+| Philisopher  3  |  12	     | 12     | 12     |
+| Philisopher  4  |  13	     | 12     | 13     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  14	     | 14     | 14     |
+| Philisopher  1  |  15	     | 14     | 14     |
+| Philisopher  2  |  13	     | 12     | 12     |
+| Philisopher  3  |  12	     | 12     | 12     |
+| Philisopher  4  |  13	     | 12     | 13     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+Philosopher 0 is thinking...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  15	     | 14     | 14     |
+| Philisopher  1  |  15	     | 14     | 14     |
+| Philisopher  2  |  13	     | 13     | 13     |
+| Philisopher  3  |  13	     | 12     | 12     |
+| Philisopher  4  |  13	     | 13     | 13     |
++-----------------+----------+--------+--------+
+Philosopher 1 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  15	     | 14     | 14     |
+| Philisopher  1  |  15	     | 14     | 15     |
+| Philisopher  2  |  13	     | 13     | 13     |
+| Philisopher  3  |  13	     | 12     | 12     |
+| Philisopher  4  |  13	     | 13     | 13     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 4 is thinking...
+Philosopher 1 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  15	     | 14     | 14     |
+| Philisopher  1  |  15	     | 15     | 15     |
+| Philisopher  2  |  14	     | 13     | 13     |
+| Philisopher  3  |  13	     | 12     | 12     |
+| Philisopher  4  |  14	     | 13     | 13     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  15	     | 14     | 14     |
+| Philisopher  1  |  16	     | 15     | 15     |
+| Philisopher  2  |  14	     | 13     | 13     |
+| Philisopher  3  |  13	     | 13     | 13     |
+| Philisopher  4  |  14	     | 13     | 13     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+Philosopher 0 is eating...
+Philosopher 2 is hungry...
+Philosopher 4 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  15	     | 15     | 15     |
+| Philisopher  1  |  16	     | 15     | 15     |
+| Philisopher  2  |  14	     | 13     | 14     |
+| Philisopher  3  |  13	     | 13     | 13     |
+| Philisopher  4  |  14	     | 13     | 14     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+Philosopher 2 is eating...
+Philosopher 0 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  16	     | 15     | 15     |
+| Philisopher  1  |  16	     | 15     | 15     |
+| Philisopher  2  |  14	     | 14     | 14     |
+| Philisopher  3  |  14	     | 13     | 13     |
+| Philisopher  4  |  14	     | 13     | 14     |
++-----------------+----------+--------+--------+
+Philosopher 4 is eating...
+Philosopher 2 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  16	     | 15     | 15     |
+| Philisopher  1  |  16	     | 15     | 15     |
+| Philisopher  2  |  15	     | 14     | 14     |
+| Philisopher  3  |  14	     | 13     | 13     |
+| Philisopher  4  |  14	     | 14     | 14     |
++-----------------+----------+--------+--------+
+Philosopher 4 is thinking...
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  16	     | 15     | 15     |
+| Philisopher  1  |  16	     | 16     | 16     |
+| Philisopher  2  |  15	     | 14     | 14     |
+| Philisopher  3  |  14	     | 14     | 14     |
+| Philisopher  4  |  15	     | 14     | 14     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  16	     | 15     | 16     |
+| Philisopher  1  |  16	     | 16     | 16     |
+| Philisopher  2  |  15	     | 14     | 14     |
+| Philisopher  3  |  14	     | 14     | 14     |
+| Philisopher  4  |  15	     | 14     | 14     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 0 is eating...
+Philosopher 3 is thinking...
+Philosopher 0 is thinking...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  17	     | 16     | 16     |
+| Philisopher  1  |  17	     | 16     | 16     |
+| Philisopher  2  |  15	     | 14     | 14     |
+| Philisopher  3  |  15	     | 14     | 14     |
+| Philisopher  4  |  15	     | 15     | 15     |
++-----------------+----------+--------+--------+
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  17	     | 16     | 16     |
+| Philisopher  1  |  17	     | 16     | 16     |
+| Philisopher  2  |  15	     | 15     | 15     |
+| Philisopher  3  |  15	     | 14     | 14     |
+| Philisopher  4  |  15	     | 15     | 15     |
++-----------------+----------+--------+--------+
+Philosopher 4 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  17	     | 16     | 16     |
+| Philisopher  1  |  17	     | 16     | 16     |
+| Philisopher  2  |  15	     | 15     | 15     |
+| Philisopher  3  |  15	     | 14     | 14     |
+| Philisopher  4  |  16	     | 15     | 15     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  17	     | 16     | 16     |
+| Philisopher  1  |  17	     | 17     | 17     |
+| Philisopher  2  |  16	     | 15     | 15     |
+| Philisopher  3  |  15	     | 15     | 15     |
+| Philisopher  4  |  16	     | 15     | 15     |
++-----------------+----------+--------+--------+
+Philosopher 4 is hungry...
+Philosopher 0 is hungry...
+Philosopher 1 is thinking...
+Philosopher 0 is eating...
+Philosopher 3 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  17	     | 17     | 17     |
+| Philisopher  1  |  18	     | 17     | 17     |
+| Philisopher  2  |  16	     | 15     | 15     |
+| Philisopher  3  |  16	     | 15     | 15     |
+| Philisopher  4  |  16	     | 15     | 16     |
++-----------------+----------+--------+--------+
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  17	     | 17     | 17     |
+| Philisopher  1  |  18	     | 17     | 17     |
+| Philisopher  2  |  16	     | 16     | 16     |
+| Philisopher  3  |  16	     | 15     | 15     |
+| Philisopher  4  |  16	     | 15     | 16     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+Philosopher 4 is eating...
+Philosopher 2 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  18	     | 17     | 17     |
+| Philisopher  1  |  18	     | 17     | 17     |
+| Philisopher  2  |  17	     | 16     | 16     |
+| Philisopher  3  |  16	     | 15     | 15     |
+| Philisopher  4  |  16	     | 16     | 16     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 4 is thinking...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  18	     | 17     | 17     |
+| Philisopher  1  |  18	     | 17     | 17     |
+| Philisopher  2  |  17	     | 16     | 16     |
+| Philisopher  3  |  16	     | 16     | 16     |
+| Philisopher  4  |  17	     | 16     | 16     |
++-----------------+----------+--------+--------+
+Philosopher 3 is thinking...
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+Philosopher 0 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  18	     | 17     | 18     |
+| Philisopher  1  |  18	     | 18     | 18     |
+| Philisopher  2  |  17	     | 16     | 16     |
+| Philisopher  3  |  17	     | 16     | 16     |
+| Philisopher  4  |  17	     | 16     | 16     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 0 is eating...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  18	     | 18     | 18     |
+| Philisopher  1  |  19	     | 18     | 18     |
+| Philisopher  2  |  17	     | 17     | 17     |
+| Philisopher  3  |  17	     | 16     | 16     |
+| Philisopher  4  |  17	     | 16     | 16     |
++-----------------+----------+--------+--------+
+Philosopher 4 is hungry...
+Philosopher 0 is thinking...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  19	     | 18     | 18     |
+| Philisopher  1  |  19	     | 18     | 18     |
+| Philisopher  2  |  17	     | 17     | 17     |
+| Philisopher  3  |  17	     | 16     | 16     |
+| Philisopher  4  |  17	     | 17     | 17     |
++-----------------+----------+--------+--------+
+Philosopher 1 is hungry...
+Philosopher 2 is thinking...
+Philosopher 1 is eating...
+Philosopher 3 is hungry...
+Philosopher 4 is thinking...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  19	     | 18     | 18     |
+| Philisopher  1  |  19	     | 19     | 19     |
+| Philisopher  2  |  18	     | 17     | 17     |
+| Philisopher  3  |  17	     | 17     | 17     |
+| Philisopher  4  |  18	     | 17     | 17     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  19	     | 18     | 18     |
+| Philisopher  1  |  19	     | 19     | 19     |
+| Philisopher  2  |  18	     | 17     | 17     |
+| Philisopher  3  |  17	     | 17     | 17     |
+| Philisopher  4  |  18	     | 17     | 17     |
++-----------------+----------+--------+--------+
+Philosopher 1 is thinking...
+Philosopher 3 is thinking...
+Philosopher 4 is hungry...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  19	     | 18     | 18     |
+| Philisopher  1  |  20	     | 19     | 19     |
+| Philisopher  2  |  18	     | 17     | 17     |
+| Philisopher  3  |  18	     | 17     | 17     |
+| Philisopher  4  |  18	     | 18     | 18     |
++-----------------+----------+--------+--------+
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+Philosopher 0 is hungry...
+Philosopher 4 is thinking...
+Philosopher 0 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  19	     | 19     | 19     |
+| Philisopher  1  |  20	     | 19     | 19     |
+| Philisopher  2  |  18	     | 18     | 18     |
+| Philisopher  3  |  18	     | 17     | 17     |
+| Philisopher  4  |  19	     | 18     | 18     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  19	     | 19     | 19     |
+| Philisopher  1  |  20	     | 19     | 19     |
+| Philisopher  2  |  18	     | 18     | 18     |
+| Philisopher  3  |  18	     | 17     | 17     |
+| Philisopher  4  |  19	     | 18     | 18     |
++-----------------+----------+--------+--------+
+Philosopher 2 is thinking...
+Philosopher 0 is thinking...
+Philosopher 1 is hungry...
+Philosopher 1 is eating...
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  20	     | 19     | 19     |
+| Philisopher  1  |  20	     | 20     | 20     |
+| Philisopher  2  |  19	     | 18     | 18     |
+| Philisopher  3  |  18	     | 18     | 18     |
+| Philisopher  4  |  19	     | 18     | 18     |
++-----------------+----------+--------+--------+
+Philosopher 4 is hungry...
+Philosopher 1 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  20	     | 19     | 19     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  19	     | 18     | 18     |
+| Philisopher  3  |  18	     | 18     | 18     |
+| Philisopher  4  |  19	     | 18     | 19     |
++-----------------+----------+--------+--------+
+Philosopher 2 is hungry...
+Philosopher 3 is thinking...
+Philosopher 2 is eating...
+Philosopher 4 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  20	     | 19     | 19     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  19	     | 19     | 19     |
+| Philisopher  3  |  19	     | 18     | 18     |
+| Philisopher  4  |  19	     | 19     | 19     |
++-----------------+----------+--------+--------+
+Philosopher 0 is hungry...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  20	     | 19     | 20     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  19	     | 19     | 19     |
+| Philisopher  3  |  19	     | 18     | 18     |
+| Philisopher  4  |  19	     | 19     | 19     |
++-----------------+----------+--------+--------+
+Philosopher 4 is thinking...
+Philosopher 0 is eating...
+Philosopher 2 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  20	     | 20     | 20     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  20	     | 19     | 19     |
+| Philisopher  3  |  19	     | 18     | 18     |
+| Philisopher  4  |  20	     | 19     | 19     |
++-----------------+----------+--------+--------+
+Philosopher 0 is thinking...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  21	     | 20     | 20     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  20	     | 19     | 19     |
+| Philisopher  3  |  19	     | 18     | 18     |
+| Philisopher  4  |  20	     | 19     | 19     |
++-----------------+----------+--------+--------+
+Philosopher 3 is hungry...
+Philosopher 3 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  21	     | 20     | 20     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  20	     | 19     | 19     |
+| Philisopher  3  |  19	     | 19     | 19     |
+| Philisopher  4  |  20	     | 19     | 19     |
++-----------------+----------+--------+--------+
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  21	     | 20     | 20     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  20	     | 19     | 19     |
+| Philisopher  3  |  19	     | 19     | 19     |
+| Philisopher  4  |  20	     | 19     | 19     |
++-----------------+----------+--------+--------+
+Philosopher 4 is hungry...
+Philosopher 3 is thinking...
+Philosopher 4 is eating...
+Philosopher 2 is hungry...
+Philosopher 2 is eating...
+
++-----------------+----------+--------+--------+
+| Philisopher ID  | Thinking | Eating | Hungry |
++-----------------+----------+--------+--------+
+| Philisopher  0  |  21	     | 20     | 20     |
+| Philisopher  1  |  21	     | 20     | 20     |
+| Philisopher  2  |  20	     | 20     | 20     |
+| Philisopher  3  |  20	     | 19     | 19     |
+| Philisopher  4  |  20	     | 20     | 20     |
++-----------------+----------+--------+--------+
+Philosopher 4 is thinking...
